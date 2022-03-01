@@ -18,8 +18,8 @@
 
 ### 5. Run the bot!
 
-# [![Invite The Bot!]()]
+# [Invite The Bot!](https://discord.com/api/oauth2/authorize?client_id=947769864486019072&permissions=412353842176&scope=bot%20applications.commands)
 
-# [![My Discord server/support server](https://discord.gg/AM787M44au)]
+# [My Discord server/support server](https://discord.gg/AM787M44au)
 
-<a href="https://discord.gg/AM787M44au"><img src="https://discord.com/api/guilds/868979279914999808/widget.png?style=banner2"></a>  
+  
