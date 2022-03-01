@@ -6,6 +6,7 @@ const { glob } = require('glob');
 const Ascii = require('ascii-table');
 const { table } = require('console');
 const PG = promisify(glob);
+const keepAlive = require('./server');
 
 client.commands = new Collection()
 
@@ -28,4 +29,5 @@ require("./Handlers/Events")(client);
     require(`./Handlers/${handler}`)(client, PG, Ascii);
   });
 
+keepAlive();
 client.login(Token);
